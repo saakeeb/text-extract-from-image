@@ -1,0 +1,36 @@
+mbody {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .input-div {
+    margin-bottom: 20px;
+  }
+  
+  .input-div button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .input-div button:hover {
+    background-color: #0056b3;
+  }
+  
+  #output-div {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    min-height: 100px;
+  }
+  
